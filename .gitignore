@@ -1,0 +1,33 @@
+# Environnements Python
+.venv/
+venv/
+env/
+ENV/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Données sensibles
+*.csv
+*.xlsx
+archive/
+
+# Fichiers système macOS
+.DS_Store
+.DS_Store?
+._*
+
+# VS Code
+.vscode/
+*.swp
+*.swo
+
+# Modèles entraînés
+*.pkl
+*.joblib
+
+# Logs
+*.log
